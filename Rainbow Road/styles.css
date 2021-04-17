@@ -1,0 +1,130 @@
+.button {
+    padding: 5px 10px;
+    font-size: 24px;
+    text-align: center;
+    outline: none;
+    color: #fff;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    position: relative;
+    bottom: 0px;
+    left:23%;
+  }
+
+#button1{
+    cursor: pointer;
+    background-color: #d91212;
+}
+
+#button1:hover {background-color: #b80707}
+  
+#button1:active {
+    background-color: #f64343;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+ }
+
+  
+#button2{
+    cursor: pointer;
+    background-color: #1744c2;
+    }
+
+#button2:hover {background-color: #0b1b7a}
+  
+#button2:active {
+    background-color: #5856db;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+    }
+
+#button3{
+    cursor: pointer;
+    background-color: #71d131;
+}
+
+#button3:hover {background-color: #06770c}
+  
+#button3:active {
+    background-color: #89f34b;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+
+#button4{
+    cursor: pointer;
+    background-color: #dfe225;
+}
+
+#button4:hover {background-color: #8b8309}
+  
+#button4:active {
+    background-color: #dbe95d;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+  
+#button5{
+    cursor: pointer;
+    background-color: #e023a7;
+}
+
+#button5:hover {background-color: #800d5d}
+  
+#button5:active {
+    background-color: #eb63c2;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+
+#button6{
+    cursor: pointer;
+    background-color: #dd830d;
+}
+
+#button6:hover {background-color: #a16210}
+  
+#button6:active {
+    background-color: #dd9538;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+
+#button7{
+    cursor: pointer;
+    background-color: #9a12d9;
+}
+
+#button7:hover {background-color: #5a117c}
+  
+#button7:active {
+    background-color: #a864c7;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+  
+#button8{
+    cursor: pointer;
+    background-color: #82db1b;
+}
+
+#button8:hover {background-color: #518b0f}
+  
+#button8:active {
+    background-color: #a0cc6d;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+#button9{
+    cursor: pointer;
+    background-color: #ffffff;
+}
+
+#button9:hover {background-color: #adadad}
+  
+#button9:active {
+    background-color: #f64343;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
